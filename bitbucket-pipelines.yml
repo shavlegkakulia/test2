@@ -1,0 +1,41 @@
+image: atlassian/default-image:2
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Build with node
+          image: node:12
+          caches:
+            - node          
+          script:
+            - npm install
+            - npm run prod
+          artifacts:
+            - dist/**    
+      - step:
+          name: Deploy Production build to S3 for codepipeline
+          image: atlassian/pipelines-awscli
+          deployment: test
+          script:
+            - apk add zip
+            - zip -r --exclude=*.git* validation-web-master.zip dist
+            - aws s3 cp validation-web-master.zip s3://$AWS_S3_INCOMING_BUCKET             
+    develop:
+      - step:
+          name: Build with node
+          image: node:12
+          caches:
+            - node          
+          script:
+            - npm install
+            - npm run build
+          artifacts:
+            - dist/**    
+      - step:
+          name: Deploy Development build to S3 for codepipeline
+          image: atlassian/pipelines-awscli
+          deployment: test
+          script:
+            - apk add zip
+            - zip -r --exclude=*.git* validation-web-develop.zip dist
+            - aws s3 cp validation-web-develop.zip s3://$AWS_S3_INCOMING_BUCKET

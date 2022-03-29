@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="44" viewBox="0 0 120 44">
+  <g id="pack-2" transform="translate(-759 -213)">
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(802 213)" fill="#fff" stroke="#f99d01" stroke-width="2">
+      <rect width="34" height="44" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="32" height="42" rx="4" fill="none"/>
+    </g>
+    <line id="Line_34" data-name="Line 34" x2="6.648" transform="translate(808.629 223.5)" fill="none" stroke="#f99d01" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_35" data-name="Line 35" x2="19.936" transform="translate(808.638 234.5)" fill="none" stroke="#f99d01" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_36" data-name="Line 36" x2="19.623" transform="translate(808.638 240.5)" fill="none" stroke="#f99d01" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_37" data-name="Line 37" x2="19.623" transform="translate(808.638 246.5)" fill="none" stroke="#f99d01" stroke-linecap="round" stroke-width="2"/>
+    <g id="Rectangle_41-2" data-name="Rectangle 41" transform="translate(864 228)" fill="#fff" stroke="rgba(249,157,1,0.2)" stroke-width="2">
+      <rect width="15" height="18" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="13" height="16" rx="2" fill="none"/>
+    </g>
+    <line id="Line_34-2" data-name="Line 34" x2="2.144" transform="translate(869.094 232.781)" fill="none" stroke="rgba(249,157,1,0.2)" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_35-2" data-name="Line 35" x2="4.733" transform="translate(869.097 237.121)" fill="none" stroke="rgba(249,157,1,0.2)" stroke-linecap="round" stroke-width="2"/>
+    <g id="Rectangle_41-3" data-name="Rectangle 41" transform="translate(759 228)" fill="#fff" stroke="rgba(249,157,1,0.2)" stroke-width="2">
+      <rect width="15" height="18" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="13" height="16" rx="2" fill="none"/>
+    </g>
+    <line id="Line_34-3" data-name="Line 34" x2="2.144" transform="translate(764.094 232.781)" fill="none" stroke="rgba(249,157,1,0.2)" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_35-3" data-name="Line 35" x2="4.733" transform="translate(764.097 237.121)" fill="none" stroke="rgba(249,157,1,0.2)" stroke-linecap="round" stroke-width="2"/>
+    <g id="Rectangle_41-4" data-name="Rectangle 41" transform="translate(839 222)" fill="#fff" stroke="rgba(249,157,1,0.4)" stroke-width="2">
+      <rect width="22" height="29" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="20" height="27" rx="3" fill="none"/>
+    </g>
+    <line id="Line_34-4" data-name="Line 34" x2="4.435" transform="translate(843.702 228.651)" fill="none" stroke="rgba(249,157,1,0.4)" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_35-4" data-name="Line 35" x2="9.792" transform="translate(843.708 235.99)" fill="none" stroke="rgba(249,157,1,0.4)" stroke-linecap="round" stroke-width="2"/>
+    <g id="Rectangle_41-5" data-name="Rectangle 41" transform="translate(777 222)" fill="#fff" stroke="rgba(249,157,1,0.4)" stroke-width="2">
+      <rect width="22" height="29" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="20" height="27" rx="4" fill="none"/>
+    </g>
+    <line id="Line_34-5" data-name="Line 34" x2="4.435" transform="translate(781.702 228.651)" fill="none" stroke="rgba(249,157,1,0.4)" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_35-5" data-name="Line 35" x2="9.792" transform="translate(781.708 235.99)" fill="none" stroke="rgba(249,157,1,0.4)" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_48" data-name="Line 48" x2="9.792" transform="translate(781.708 239.99)" fill="none" stroke="rgba(249,157,1,0.4)" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_51" data-name="Line 51" x2="9.792" transform="translate(843.708 239.99)" fill="none" stroke="rgba(249,157,1,0.4)" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

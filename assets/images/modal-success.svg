@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="68.999" viewBox="0 0 154 68.999">
+  <g id="modal-success" transform="translate(-288 -471)">
+    <g id="Group_185" data-name="Group 185" transform="translate(0 361)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M-4072.5-822h-42a4.505,4.505,0,0,1-4.5-4.5,4.506,4.506,0,0,1,4.5-4.5h19a4.506,4.506,0,0,0,4.5-4.5,4.505,4.505,0,0,0-4.5-4.5h-30a4.506,4.506,0,0,1-4.5-4.5,4.506,4.506,0,0,1,4.5-4.5h42a4.505,4.505,0,0,0,4.5-4.5,4.506,4.506,0,0,0-4.5-4.5h-22a4.505,4.505,0,0,1-4.5-4.5,4.5,4.5,0,0,1,4.5-4.5h49a4.5,4.5,0,0,1,4.5,4.5,4.5,4.5,0,0,1-4.5,4.5h19a4.5,4.5,0,0,1,4.5,4.5,4.5,4.5,0,0,1-4.5,4.5h-32a4.506,4.506,0,0,0-4.5,4.5,4.506,4.506,0,0,0,4.5,4.5h2l.136,0,13.864,0a4.505,4.505,0,0,1,4.5,4.5,4.5,4.5,0,0,1-4.5,4.5h-19a4.5,4.5,0,0,1,4.5,4.5A4.5,4.5,0,0,1-4072.5-822Zm-18.4-32.427h0a4.47,4.47,0,0,1,1.26-2.291,4.493,4.493,0,0,1,2.911-1.274A4.516,4.516,0,0,0-4090.9-854.429Z" transform="translate(4418 976.999)" fill="#dbf1d7"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M80.5,53h-42a4.5,4.5,0,0,1,0-9h8.925a4.19,4.19,0,0,1-.435-.028A5.074,5.074,0,0,0,47.5,44h10a4.5,4.5,0,0,0,0-9h-30a4.5,4.5,0,0,1,0-9h42a4.5,4.5,0,0,0,0-9h-22a4.5,4.5,0,0,1,0-9h49a4.5,4.5,0,0,1,0,9h19a4.5,4.5,0,1,1,0,9h-32a4.5,4.5,0,1,0,0,9h2l.134,0L99.5,35a4.5,4.5,0,0,1,0,9h-19a4.5,4.5,0,1,1,0,9Z" transform="translate(464.999 186.999) rotate(180)" fill="#dbf1d7"/>
+    </g>
+    <g id="Group_163" data-name="Group 163" transform="translate(-315 178)">
+      <g id="Ellipse_23" data-name="Ellipse 23" transform="translate(654 293)" fill="#fff" stroke="#93dc85" stroke-width="2">
+        <circle cx="29" cy="29" r="29" stroke="none"/>
+        <circle cx="29" cy="29" r="28" fill="none"/>
+      </g>
+      <line id="Line_18" data-name="Line 18" x2="10" y2="10" transform="translate(672.5 321.5)" fill="none" stroke="#93dc85" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_19" data-name="Line 19" x1="13" y2="18" transform="translate(682.5 313.5)" fill="none" stroke="#93dc85" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Ellipse_36" data-name="Ellipse 36" transform="translate(328 480)" fill="none" stroke="#93dc85" stroke-width="2">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+    </g>
+    <g id="Ellipse_41" data-name="Ellipse 41" transform="translate(397 480)" fill="none" stroke="#93dc85" stroke-width="2">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+    </g>
+    <g id="Ellipse_37" data-name="Ellipse 37" transform="translate(311 497)" fill="none" stroke="#93dc85" stroke-width="2">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3" fill="none"/>
+    </g>
+    <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(405 483)" fill="none" stroke="#93dc85" stroke-width="2">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3" fill="none"/>
+    </g>
+    <g id="Ellipse_38" data-name="Ellipse 38" transform="translate(330 514)" fill="none" stroke="#93dc85" stroke-width="2">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2" fill="none"/>
+    </g>
+    <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(414 502)" fill="none" stroke="#93dc85" stroke-width="2">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2" fill="none"/>
+    </g>
+  </g>
+</svg>
